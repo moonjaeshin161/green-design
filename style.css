@@ -1,0 +1,26 @@
+.header{
+    background-color:  rgb(21, 21, 21);
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    margin: 0px;
+}
+
+.list-menu{
+    display: flex;
+    flex-direction: row;
+}
+
+.list-menu li{
+    color: white;
+    list-style-type: none;
+    margin: 0px;
+    display: flex;
+}
+
+.list-menu li span{
+    color: rgb(65,138,10);
+    margin: 0px 15px ;
+}
